@@ -2,7 +2,7 @@
 - 🔭 Cursando 2º semestre Analise e Desenvolvimento de Sistema
 - 🌱 Conhecimento HTML, CSS, Bootstrap, JavaScript e PHP 
 - 📫 E-mail: rodrigomcosta20@gmail.com
-- ⚡ Curiosidade: Jogo League of Legends
+- ⚡ Curiosidade: League of Legends
 
  <div>
   <a href="https://github.com/Rodr1gocosta">
