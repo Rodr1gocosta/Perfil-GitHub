@@ -1,6 +1,6 @@
 ### Olá! Eu sou Rodrigo Willian Costa 👋
-- 🔭 Cursando 2º semestre Analise e Desenvolvimento de Sistema
-- 🌱 Conhecimento HTML, CSS, Bootstrap, JavaScript e TypeStrip
+- 🔭 Cursando 3º semestre Analise e Desenvolvimento de Sistema
+- 🌱 Conhecimento Java, JavaScript, TypeStrip, HTML, CSS e Bootstrap. 
 - 📫 E-mail: rodrigomcosta20@gmail.com
 - ⚡ Curiosidade: League of Legends
 
@@ -15,4 +15,5 @@
   <img align="center" alt="Rod-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rod-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rod-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rod-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/java-original.svg">
 </div>
