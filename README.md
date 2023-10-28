@@ -1,6 +1,6 @@
 ### Olá! Eu sou Rodrigo Willian Costa 👋
-- 🔭 Cursando 4º semestre Analise e Desenvolvimento de Sistema
-- 🌱 Conhecimento C#, Java, JavaScript, TypeScript, HTML, CSS e Bootstrap. 
+- 🔭 Analise e Desenvolvimento de Sistema
+- 🌱 Conhecimento Java, C#, JavaScript e TypeScript. 
 - 📫 E-mail: rodrigomcosta20@gmail.com
 - ⚡ Curiosidade: League of Legends
 
